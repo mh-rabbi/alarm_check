@@ -246,6 +246,7 @@ class _AlarmScreenState extends State<AlarmScreen> {
                   style: TextStyle(
                     color: Colors.red,
                     fontWeight: FontWeight.bold,
+                    // chkkk
                     fontSize: 24,
                   ),
                 ),
